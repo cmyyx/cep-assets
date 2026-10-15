@@ -1,2 +1,0 @@
-# 导出文件由 Node 写入，统一 LF，避免 Windows 检出时被 autocrlf 改写
-* -text
